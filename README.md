@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5C5CE6&size=30&center=true&vCenter=true&width=1000&lines=Olá!+Sou+a+Gabriela+Duarte.;Estou+sempre+aprimorando+meus+conhecimentos!)](https://git.io/typin)
 
 - Estou sempre buscando por novos conhecimentos, principalmente no ramo da tecnologia.
-- Gosto de aperfeiçoar meus conhecimentos em linguagens como Python, JavaScript e C++.
+- Gosto de aperfeiçoar meus conhecimentos em linguagens como Python, JavaScript e C#.
 - Ultimamente tenho me dedicado à estudar um pouco mais sobre Machine Learning.
 - Meu GitHub é um espaço de registro da evolução dos meus aprendizados, portanto sempre estarei atualizando os repositórios com novos desafios!
 
